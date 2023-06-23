@@ -1,5 +1,6 @@
 <h1 align='center'>RAN: Recurrent Attention Network</h1>
 
+The paper is available on [Arxiv](https://arxiv.org/abs/2306.06843).
 <h4 align='center'> 📢 This project is still in the works in order to make long document modeling easier.</h4>
 
 <h4 align="center">
